@@ -41,14 +41,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 2. Add a Star 🌟  to this 👆 Repository
 
 
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
 
 ## How to Install and Run this project?
 
@@ -71,45 +63,45 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 Install Virtual Environment First
 ```
-$  pip install virtualenv
+pip install virtualenv
 ```
 
 Create Virtual Environment
 
 For Windows
 ```
-$  python -m venv venv
+python -m venv venv
 ```
 For Mac
 ```
-$  python3 -m venv venv
+python3 -m venv venv
 ```
 
 Activate Virtual Environment
 
 For Windows
 ```
-$  source venv/scripts/activate
+source venv/scripts/activate
 ```
 
 For Mac
 ```
-$  source venv/bin/activate
+source venv/bin/activate
 ```
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+git clone https://github.com/vijaythapa333/django-student-management-system.git
 ```
 
 Then, Enter the project
 ```
-$  cd django-student-management-system
+cd django-student-management-system
 ```
 
 **4. Install Requirements from 'requirements.txt'**
 ```python
-$  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 **5. Add the hosts**
@@ -126,12 +118,12 @@ ALLOWED_HOSTS = ['*']
 
 Command for PC:
 ```python
-$ python manage.py runserver
+python manage.py runserver
 ```
 
 Command for Mac:
 ```python
-$ python3 manage.py runserver
+python3 manage.py runserver
 ```
 
 **7. Login Credentials**
@@ -159,6 +151,6 @@ Password: student
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+1. Email - evanesh7345@gmail.com
+
 
